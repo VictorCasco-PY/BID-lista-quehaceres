@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.input-main {
+  border: 1px solid gray;
+  padding: 5px 15px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.btn-delete {
+  background-color: #252525;
+  color: whitesmoke;
+  border: none;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+
+.btn-add {
+  background-color: royalblue;
+  color: whitesmoke;
+  border: none;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+
+.check {
+  width: 20px;
+  height: 20px;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+}
